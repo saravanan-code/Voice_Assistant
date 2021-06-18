@@ -1,0 +1,2 @@
+C:\Program Files\Android\Android Studio
+E:/GAME DEV/2019.4.15f1/Editor/Data/PlaybackEngines/AndroidPlayer\SDK
