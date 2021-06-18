@@ -39,7 +39,7 @@ chrome_path= 'C:/Program Files/Google/Chrome/Application/chrome.exe %s'
 
 options = webdriver.ChromeOptions() 
 options.add_argument("user-data-dir=C:/Users/" + getpass.getuser() + "/AppData/Local/Google/Chrome/User Data")
-driver = webdriver.Chrome(executable_path="C:/webdrivers/chromedriver.exe", options=options)
+driver = webdriver.Chrome(executable_path="C:\webdrivers\chromedriver.exe", options=options)
 
 
 def music(song):
